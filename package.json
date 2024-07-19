@@ -1,0 +1,28 @@
+{
+  "name": "onepiece-card-game-api",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "20.x"
+  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hkcmoris/onepiece-card-game-api"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "hkcmoris",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
